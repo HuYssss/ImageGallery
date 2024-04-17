@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "441453550474",
+    "project_id": "imgstorage-f4142",
+    "storage_bucket": "imgstorage-f4142.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441453550474:android:4ff5ea706e983cb99cc673",
+        "android_client_info": {
+          "package_name": "com.example.firebasegallary"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAafZ8pg0p65p5BfU6WRnMoVPQgt2Zh4bU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
